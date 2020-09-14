@@ -31,9 +31,9 @@ export default class Main extends Component {
         <Blogs />
         <Talks />
         <Twitter />
-        <Podcast />
+        {/* <Podcast /> */}
         <Profile />
-        <Footer />
+        {/* <Footer /> */}
         <Top />
       </div>
     );
